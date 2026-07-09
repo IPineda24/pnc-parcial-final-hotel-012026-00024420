@@ -20,3 +20,10 @@ Genera los archivos de seguridad  (Aqui si los tiro feo, no es como estoy aconst
 Genera en la carpeta DTO los request and response (AQUI SI LO TIRO LINDO NO MODIFIQUE NADA)
 
 
+Generame las exeptios acorde a este codigo. (Aqui tambien lo tiro perfecto (creo que la IA ya va entendiendo mejor lo que quiero))
+
+
+Este es el hotel controller quiero que ahora me generes el Reserva controller.
+
+Me ayudas a poner en milesimas el tiempo de 7 días para un jwt 
+
