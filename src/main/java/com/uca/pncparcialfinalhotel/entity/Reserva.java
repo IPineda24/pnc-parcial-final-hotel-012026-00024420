@@ -30,6 +30,7 @@ public class Reserva {
     @JoinColumn(name = "habitacion_id")
     private Habitacion habitacion;
 
+    //GENERADO CON IA
     // Denormalizado para poder filtrar reservas por sucursal sin hacer join
     // hasta Habitacion en cada consulta (autorizacion por atributo del Recepcionista).
     @ManyToOne(optional = false)

@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 
+//COMENTARIOS GENERADOS CON IA
 @Entity
 @Table(name = "refresh_tokens")
 @Data
